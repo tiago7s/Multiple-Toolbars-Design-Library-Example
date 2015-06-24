@@ -1,0 +1,17 @@
+<resources>
+
+    <color name="primary_dark">#1976d2</color>
+    <color name="primary">#2196f3</color>
+    <color name="accent">#f50057</color>
+    <color name="accent_secondary">#CDDC39</color>
+    <color name="accent_tertiary">#ffc400</color>
+    <color name="accent_pressed">#ff4081</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="refresh_progress_1">@color/primary</color>
+    <color name="refresh_progress_2">@color/accent</color>
+    <color name="refresh_progress_3">@color/accent_secondary</color>
+    <color name="transparent">#00000000</color>
+    <color name="window_background">#FFF5F5F5</color>
+</resources>
